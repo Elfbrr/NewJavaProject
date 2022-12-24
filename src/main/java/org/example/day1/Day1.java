@@ -10,11 +10,15 @@ public class Day1 {
             System.out.println(i);
         }
         System.out.println("Hello world");
-        for (int i = 0; i < 5; i++) {
+        System.out.println("Hello world");
+        int i=0;
+        while (i<10){
             System.out.println(i);
+            i++;
         }
-        
     }
-    
+
 }
-//this is comment
+/**
+ * End of the class comment
+ */

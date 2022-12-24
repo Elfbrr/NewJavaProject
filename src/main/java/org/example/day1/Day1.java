@@ -1,5 +1,10 @@
 package org.example.day1;
+//java.class
 
+/**hello
+ */
+
+//this is comment
 public class Day1 {
     public static void main(String[] args) {
         System.out.println("Hello world");
@@ -8,6 +13,13 @@ public class Day1 {
         }
         System.out.println("Hello world");
         System.out.println("Hello world");
-        System.out.println("Hello world");
+        int i=0;
+        while (i<10){
+            System.out.println(i);
+            i++;
+        }
     }
 }
+/**
+ * End of the class comment
+ */

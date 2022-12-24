@@ -1,10 +1,8 @@
 package org.example.day1;
-//java.class
+/*
+my comment
+*/
 
-/**hello
- */
-
-//this is comment
 public class Day1 {
     public static void main(String[] args) {
         System.out.println("Hello world");
@@ -19,6 +17,7 @@ public class Day1 {
             i++;
         }
     }
+
 }
 /**
  * End of the class comment
